@@ -1,0 +1,19 @@
+h1{
+    color: rgb(50, 165, 42);
+}
+
+.paragrafo1 {
+    color: darkgoldenrod;
+}
+.paragrafo2 {
+    color: darkred;
+}
+
+.paragrafo3 {
+    color: darkviolet;
+}
+
+div{
+    background-color: deepskyblue;
+
+}
